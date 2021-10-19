@@ -1,4 +1,4 @@
-package Ex01_SingletonPattern.case1.step1;
+package Ex01_SingletonPattern.case1.step3;
 
 public class TestPattern1 {
     public static void main(String[] args){
