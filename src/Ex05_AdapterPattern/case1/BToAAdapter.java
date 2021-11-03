@@ -1,6 +1,6 @@
 package Ex05_AdapterPattern.case1;
 
-public class BToAAdapter implements APlayer{
+public class BToAAdapter implements APlayer {
     private BPlayer media;
 
     public BToAAdapter(BPlayer media){
